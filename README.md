@@ -1,7 +1,7 @@
-## This Person Does Not Exist - Ruby 
+## This Person Does Not Exist - Ruby
 ![temporary logo](https://s2.gifyu.com/images/Peek-2018-10-29-00-13.gif "get_my_news temporary logo")
 
-A simple ruby script featuring Nokogiri to grab image from an awesome Nvidia Labs project. The project uses imagination AI created by a group of researchers at Nvidia to generate faces of persons who DO NOT exist.
+A simple ruby script featuring Rest Client to grab image from an awesome Nvidia Labs project. The project uses imagination AI created by a group of researchers at Nvidia to generate faces of persons who DO NOT exist.
 
 * have a look at their [repository](https://github.com/lucidrains/stylegan2-pytorch)
 * [support](https://www.patreon.com/lucidrains) its creators
