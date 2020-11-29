@@ -1,5 +1,5 @@
 ## This Person Does Not Exist - Ruby
-![temporary logo](https://s2.gifyu.com/images/Peek-2018-10-29-00-13.gif "get_my_news temporary logo")
+![temporary logo](https://bt-strike.s3-us-west-2.amazonaws.com/images/ruby.gif "get_my_news temporary logo")
 
 A simple ruby script featuring Rest Client to grab image from an awesome Nvidia Labs project. The project uses imagination AI created by a group of researchers at Nvidia to generate faces of persons who DO NOT exist.
 
